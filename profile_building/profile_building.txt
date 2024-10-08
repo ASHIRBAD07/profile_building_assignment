@@ -1,0 +1,39 @@
+Q1. What is the difference between UI and UX? Explain in your own words.
+Ans:     UI (User Interface) focuses on the visual aspects of a product—like colors, buttons, and layout—making it appealing and easy to interact with.
+UX (User Experience) is about the overall feel of the product, ensuring it’s intuitive, functional, and enjoyable to use.
+In short:
+-> UI = Look and feel
+-> UX = User journey and satisfaction
+
+
+Q2.Who is a frontend developer? Explain the roles and responsibilities in your own words.
+Ans:   A frontend developer is someone who creates the parts of a website or application that users see and interact with directly. They focus on the visual elements and ensure a smooth, enjoyable experience for users.
+Roles and Responsibilities
+Building User Interfaces: They use HTML, CSS, and JavaScript to create the layout, design, and interactivity of a website or app based on the designs provided.
+Ensuring Responsiveness: Frontend developers make sure the site looks and works well on all devices, from desktops to smartphones, by creating responsive designs.
+Optimizing for Speed: They work on improving load times and performance to ensure that the site runs quickly and smoothly.
+Cross-Browser Compatibility: They test and adjust code to ensure the site looks consistent across different web browsers, like Chrome, Firefox, and Safari.
+Adding Interactive Features: Frontend developers use JavaScript frameworks (like React or Vue) to build features that allow users to interact with the site, such as forms, animations, and sliders.
+Collaborating with Teams: They work closely with designers to implement the design accurately and with backend developers to connect the frontend with the server-side functions.
+
+
+Q3.Who is a backend developer? Explain the roles and responsibilities in your own words.
+Ans:      A backend developer is someone who focuses on the server side of a website or application. They work behind the scenes to ensure that everything functions properly, handling data, databases, and the overall logic of the system. While users don’t see their work directly, backend developers are essential for building a reliable and efficient foundation for any website or app.
+Roles and Responsibilities
+Building and Maintaining Servers: Backend developers set up, configure, and maintain servers to keep the website or app running smoothly. They ensure the servers are secure, scalable, and responsive.
+Database Management: They design, manage, and maintain databases to store data like user information, content, and transaction records. This involves using databases like MySQL, MongoDB, or PostgreSQL.
+Developing and Integrating APIs: Backend developers create and work with APIs (Application Programming Interfaces) that allow the frontend to communicate with the server. APIs enable features like data retrieval, updates, and other interactions.
+Implementing Core Logic and Functionality: They handle the main functions of the application, such as processing orders, managing user accounts, or retrieving data from the database. This is often done with programming languages like Python, Java, Ruby, or Node.js.
+Ensuring Security and Data Protection: Backend developers implement security measures to protect sensitive data, such as encryption, authentication, and access control to prevent unauthorized access
+
+
+Q4.Create your own GitHub & LinkedIn accounts. Share the screenshot of both of your accounts and share your profile links of GitHub & LinkedIn in the solution.
+Ans:(a) Linkedin   
+
+https://www.linkedin.com/in/ashirbad-mohanty-34ab02303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+    (b) Github
+
+  https://github.com/ASHIRBAD07
+
+
